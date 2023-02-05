@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Label Printer Companion</string>
+    <string name="sample_text">Sample Label</string>
+</resources>

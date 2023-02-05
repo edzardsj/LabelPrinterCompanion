@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Typefaces" >
+        <item>Default</item>
+        <item>Default Bold</item>
+        <item>Monospace</item>
+        <item>Serif</item>
+        <item>Sans Serif</item>
+    </string-array>
+</resources>
